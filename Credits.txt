@@ -1,5 +1,6 @@
 Thank you for helping me
 
+-Kosher (making this port of the PC to quest, fixing the project, etc.)
 -Duttbust and Duck (made the game possible)
 -GotYoHat Kinex, fchb1239, and JokerJosh (some code)
 -Geobyte (the new model)
